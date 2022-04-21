@@ -20,11 +20,11 @@ The dataset contains 87,000 200x200 pixel images; 3000 images for each letter of
 * Streamlit for Web app
 
 ## Results:
-The model achieved an accuracy of 97% after completing 17 epochs.
+The model achieved an accuracy of 97%.
 
 Confusion Matrix:
-![alt text]()
+![alt text](https://github.com/mvvr/INT247-SLR-ASL-Project/blob/main/cf_matrix.png)
 
 Test Data Results:
-![alt text]()
+![alt text](https://github.com/mvvr/INT247-SLR-ASL-Project/blob/main/test_results.png)
 
