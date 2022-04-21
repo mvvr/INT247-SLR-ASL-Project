@@ -1,5 +1,6 @@
 opencv-python
 opencv-contrib-python
 streamlit
-streamlit-webrtc
 tensorflow
+torch
+numpy
